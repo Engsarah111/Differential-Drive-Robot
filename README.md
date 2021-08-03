@@ -1,7 +1,5 @@
 # Differential-Drive-Robot
 
-# diff_drive_bot
-
 This ROS package implements SLAM on a 2 wheeled differential drive robot to map an unknown environment. A joystick is used to teleoperate the robot in Gazebo. The map generated is then used for autonomous navigation using the ROS Navigation stack.
 
 
